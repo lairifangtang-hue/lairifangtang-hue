@@ -77,12 +77,12 @@ THEMES = {
 @dataclass(frozen=True)
 class Layout:
     width: int = 1080
-    height: int = 640
+    height: int = 780
     outer_margin: int = 28
     left_width: int = 250
     gap: int = 34
     content_top: int = 80
-    content_height: int = 504
+    content_height: int = 644
     ascii_font_size: int = 22
     ascii_line_height: int = 28
 
@@ -118,8 +118,9 @@ def github_graphql_request(query: str, variables: dict[str, Any], token: str) ->
         "https://api.github.com/graphql",
         data=body,
         headers={
-            "Authorization": f"******",
+            "Authorization": "Bearer " + token,
             "Content-Type": "application/json",
+            "Accept": "application/vnd.github+json",
             "User-Agent": "profile-readme-generator",
         },
         method="POST",

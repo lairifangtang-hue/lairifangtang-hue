@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 780" role="img" aria-labelledby="title desc">
+  <title id="title">Your Name GitHub profile card</title>
+  <desc id="desc">Terminal-inspired profile summary for YOUR_GITHUB_USERNAME.</desc>
+  <defs>
+    <linearGradient id="panel-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d0d7de22" />
+      <stop offset="100%" stop-color="#ffffff00" />
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#f6f8fa" />
+  <rect x="28" y="28" width="1024" height="724" rx="26" fill="#ffffff" stroke="#d0d7de" />
+  <rect x="28" y="28" width="1024" height="724" rx="26" fill="url(#panel-glow)" opacity="1" />
+
+  <g transform="translate(56 54)">
+    <circle cx="12" cy="12" r="6" fill="#cf222e" />
+    <circle cx="34" cy="12" r="6" fill="#9a6700" />
+    <circle cx="56" cy="12" r="6" fill="#1a7f37" />
+    <text x="88" y="17" fill="#59636e" font-size="15" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace">fastfetch-profile</text>
+  </g>
+
+  <g transform="translate(56 80)">
+    <rect width="250" height="644" rx="18" fill="#f6f8fa" stroke="#d8dee4" />
+    <text x="30" y="48" fill="#57606a" font-size="22" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">      .-.</text>
+    <text x="30" y="76" fill="#57606a" font-size="22" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">     (o o)</text>
+    <text x="30" y="104" fill="#57606a" font-size="22" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">     | O \</text>
+    <text x="30" y="132" fill="#57606a" font-size="22" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">      \   \</text>
+    <text x="30" y="160" fill="#57606a" font-size="22" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">       `~~~&#39;</text>
+  </g>
+
+  <g transform="translate(340 80)">
+    <text x="0" y="26" fill="#1f2328" font-size="28" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" font-weight="700">YOUR_GITHUB_USERNAME@github</text>
+    <text x="0" y="62" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Profile</text>
+    <text x="0" y="82" fill="#d8dee4" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">──────────────────────────────</text>
+    <text x="0" y="112" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Role:       </text>
+    <text x="188" y="112" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Software / AI Engineer</text>
+    <text x="0" y="140" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Location:   </text>
+    <text x="188" y="140" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Singapore</text>
+    <text x="0" y="168" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Focus:      </text>
+    <text x="188" y="168" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">AI Agents · Machine Learning · Graph</text>
+    <text x="0" y="196" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">            </text>
+    <text x="188" y="196" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Learning</text>
+    <text x="0" y="224" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Stack:      </text>
+    <text x="188" y="224" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Python · TypeScript · PyTorch · Next.js</text>
+    <text x="0" y="252" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Interests:  </text>
+    <text x="188" y="252" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">World Models · Agents · Robotics</text>
+    <text x="0" y="288" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">GitHub</text>
+    <text x="0" y="308" fill="#d8dee4" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">──────────────────────────────</text>
+    <text x="0" y="338" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Repos:      </text>
+    <text x="188" y="338" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Unavailable</text>
+    <text x="0" y="366" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Followers:  </text>
+    <text x="188" y="366" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Unavailable</text>
+    <text x="0" y="394" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Stars:      </text>
+    <text x="188" y="394" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Unavailable</text>
+    <text x="0" y="422" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Contribs:   </text>
+    <text x="188" y="422" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Unavailable (YTD)</text>
+    <text x="0" y="450" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Commits:    </text>
+    <text x="188" y="450" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Unavailable (YTD)</text>
+    <text x="0" y="478" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Pull Req:   </text>
+    <text x="188" y="478" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Unavailable (YTD)</text>
+    <text x="0" y="506" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Issues:     </text>
+    <text x="188" y="506" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Unavailable (YTD)</text>
+    <text x="0" y="542" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Activity</text>
+    <text x="0" y="562" fill="#d8dee4" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">──────────────────────────────</text>
+    <text x="0" y="592" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Updated:    </text>
+    <text x="188" y="592" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">2026-08-21 15:55 UTC</text>
+    <text x="0" y="620" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Source:     </text>
+    <text x="188" y="620" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">Set PROFILE[&#39;username&#39;] to enable live</text>
+    <text x="0" y="648" fill="#59636e" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">            </text>
+    <text x="188" y="648" fill="#1f2328" font-size="17" font-family="ui-monospace, SFMono-Regular, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace" xml:space="preserve">stats</text>
+  </g>
+</svg>
