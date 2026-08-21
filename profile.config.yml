@@ -1,0 +1,48 @@
+# ---------------------------------------------------------------------------
+# Human-maintained profile content. Everything the card can't infer from the
+# GitHub API lives here. The renderer never hardcodes personal data.
+# The `identity.login` field picks which GitHub account to fetch.
+# ---------------------------------------------------------------------------
+
+identity:
+  login: lairifangtang-hue
+  handle: wei
+  display_name: Joel Wei
+  role: "AI · Software · Research"
+  base: Singapore
+  affiliation: NUS
+  # website:            # none yet; fill in when it exists
+  since: "2025-09"
+
+focus:
+  - AI Agents
+  - World Models
+  - Graph ML
+  - Embodied Intelligence
+
+now:
+  building: "agent workflow tooling"
+  learning: "world models & planning"
+  exploring: "graph learning for agents"
+  reading: "Playing Games with a Single World Model"
+
+featured_projects:
+  - repo: Zero-shot-Agent
+    note: "zero-shot agent experiments"
+  - repo: wanderink-blog
+    note: "typescript · ink-inspired writing space"
+  - repo: diffusion-model-mnist
+    note: "diffusion models from scratch, MNIST"
+  - repo: attention-mechanisms-showcase
+    note: "attention variants, side by side"
+
+languages:
+  window_days: 365
+  max: 4
+  exclude_forks: true
+
+# Vanity metrics stay off until they are worth showing.
+metrics:
+  stars: false
+  followers: false
+  commits: false

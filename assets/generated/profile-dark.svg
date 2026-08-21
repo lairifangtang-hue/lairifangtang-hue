@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="856.2" viewBox="0 0 620 856.2" role="img" alt="Terminal-style profile summary for wei: role, focus, current work and recent activity." font-family="ui-monospace, SFMono-Regular, &#x27;Cascadia Mono&#x27;, &#x27;Segoe UI Mono&#x27;, Menlo, &#x27;Liberation Mono&#x27;, monospace">
+<title>Terminal-style profile summary for wei: role, focus, current work and recent activity.</title>
+<desc>Terminal-style profile card for wei</desc>
+<rect width="620" height="856.2" rx="14" fill="#161b22"/>
+<rect x="0.5" y="0.5" width="619" height="855.2" rx="14" fill="none" stroke="#30363d" stroke-width="1"/>
+<circle cx="20" cy="20" r="4" fill="#30363d" fill-opacity="0.55"/>
+<circle cx="36" cy="20" r="4" fill="#30363d" fill-opacity="0.55"/>
+<circle cx="52" cy="20" r="4" fill="#7ee2a8" fill-opacity="0.55"/>
+<g transform="translate(28,331.4) scale(0.8)">
+<line x1="25.3" y1="166" x2="98" y2="40" stroke="#3d5245" stroke-width="1.4"/>
+<line x1="98" y1="40" x2="170.7" y2="166" stroke="#3d5245" stroke-width="1.4"/>
+<line x1="25.3" y1="166" x2="170.7" y2="166" stroke="#3d5245" stroke-width="1.4"/>
+<line x1="25.3" y1="166" x2="98" y2="124" stroke="#3d5245" stroke-width="1.4"/>
+<line x1="98" y1="40" x2="98" y2="124" stroke="#3d5245" stroke-width="1.4"/>
+<line x1="170.7" y1="166" x2="98" y2="124" stroke="#3d5245" stroke-width="1.4"/>
+<line x1="98" y1="14" x2="98" y2="40" stroke="#3d5245" stroke-width="1.4"/>
+<line x1="21.8" y1="69" x2="98" y2="40" stroke="#3d5245" stroke-width="1.4"/>
+<line x1="21.8" y1="179" x2="25.3" y2="166" stroke="#3d5245" stroke-width="1.4"/>
+<line x1="98" y1="234" x2="170.7" y2="166" stroke="#3d5245" stroke-width="1.4"/>
+<circle cx="98" cy="14" r="2.6" fill="#7ee2a8"/>
+<circle cx="21.8" cy="69" r="2.6" fill="#7ee2a8"/>
+<circle cx="21.8" cy="179" r="2.6" fill="#7ee2a8"/>
+<circle cx="98" cy="234" r="2.6" fill="#7ee2a8"/>
+<circle cx="98" cy="124" r="4.6" fill="#7ee2a8">
+<animate attributeName="r" values="4.6;6.8;4.6" dur="2.8s" repeatCount="indefinite"/>
+</circle>
+<circle cx="25.3" cy="166" r="17" fill="#161b22" stroke="#e6edf3" stroke-width="1.6"/>
+<text x="25.3" y="172" text-anchor="middle" font-size="20" font-weight="600" fill="#e6edf3">W</text>
+<circle cx="98" cy="40" r="17" fill="#161b22" stroke="#e6edf3" stroke-width="1.6"/>
+<text x="98" y="46" text-anchor="middle" font-size="20" font-weight="600" fill="#e6edf3">E</text>
+<circle cx="170.7" cy="166" r="17" fill="#161b22" stroke="#e6edf3" stroke-width="1.6"/>
+<text x="170.7" y="172" text-anchor="middle" font-size="20" font-weight="600" fill="#e6edf3">I</text>
+</g>
+<text x="218.9" y="42.2" font-size="18" font-weight="600" fill="#e6edf3">wei@github</text>
+<text x="218.9" y="60.2" font-size="16" font-weight="600" fill="#8b949e" fill-opacity="0.92">IDENTITY</text>
+<text x="218.9" y="91.4" font-size="15.5" font-weight="400" fill="#7ee2a8">Role</text>
+<text x="325" y="91.4" font-size="15.5" font-weight="400" fill="#e6edf3">AI · Software · Research</text>
+<text x="218.9" y="115.4" font-size="15.5" font-weight="400" fill="#7ee2a8">Base</text>
+<text x="325" y="115.4" font-size="15.5" font-weight="400" fill="#e6edf3">Singapore</text>
+<text x="218.9" y="139.4" font-size="15.5" font-weight="400" fill="#7ee2a8">Affil</text>
+<text x="325" y="139.4" font-size="15.5" font-weight="400" fill="#e6edf3">NUS</text>
+<text x="218.9" y="163.5" font-size="15.5" font-weight="400" fill="#7ee2a8">Focus</text>
+<text x="325" y="163.5" font-size="15.5" font-weight="400" fill="#e6edf3">AI Agents · World Models</text>
+<text x="325" y="187.5" font-size="15.5" font-weight="400" fill="#e6edf3">Graph ML · Embodied</text>
+<text x="325" y="211.5" font-size="15.5" font-weight="400" fill="#e6edf3">Intelligence</text>
+<text x="218.9" y="257.6" font-size="16" font-weight="600" fill="#8b949e" fill-opacity="0.92">NOW</text>
+<text x="218.9" y="288.8" font-size="15.5" font-weight="400" fill="#7ee2a8">Building</text>
+<text x="325" y="288.8" font-size="15.5" font-weight="400" fill="#e6edf3">agent workflow tooling</text>
+<text x="218.9" y="312.8" font-size="15.5" font-weight="400" fill="#7ee2a8">Learning</text>
+<text x="325" y="312.8" font-size="15.5" font-weight="400" fill="#e6edf3">world models &amp; planning</text>
+<text x="218.9" y="336.8" font-size="15.5" font-weight="400" fill="#7ee2a8">Exploring</text>
+<text x="325" y="336.8" font-size="15.5" font-weight="400" fill="#e6edf3">graph learning for agents</text>
+<text x="218.9" y="360.8" font-size="15.5" font-weight="400" fill="#7ee2a8">Reading</text>
+<text x="325" y="360.8" font-size="15.5" font-weight="400" fill="#e6edf3">Playing Games with a Single</text>
+<text x="325" y="384.8" font-size="15.5" font-weight="400" fill="#e6edf3">World Model</text>
+<text x="218.9" y="430.9" font-size="16" font-weight="600" fill="#8b949e" fill-opacity="0.92">SELECTED WORK</text>
+<text x="218.9" y="462.1" font-size="15.5" font-weight="400" fill="#7ee2a8">●</text>
+<text x="236.9" y="462.1" font-size="15.5" font-weight="600" fill="#e6edf3">Zero-shot-Agent</text>
+<text x="236.9" y="486.1" font-size="14.3" font-weight="400" fill="#8b949e">zero-shot agent experiments</text>
+<text x="218.9" y="509.2" font-size="15.5" font-weight="400" fill="#7ee2a8">●</text>
+<text x="236.9" y="509.2" font-size="15.5" font-weight="600" fill="#e6edf3">wanderink-blog</text>
+<text x="236.9" y="533.2" font-size="14.3" font-weight="400" fill="#8b949e">typescript · ink-inspired writing s…</text>
+<text x="218.9" y="556.3" font-size="15.5" font-weight="400" fill="#7ee2a8">●</text>
+<text x="236.9" y="556.3" font-size="15.5" font-weight="600" fill="#e6edf3">diffusion-model-mnist</text>
+<text x="236.9" y="580.3" font-size="14.3" font-weight="400" fill="#8b949e">diffusion models from scratch, MNIST</text>
+<text x="218.9" y="603.3" font-size="15.5" font-weight="400" fill="#7ee2a8">●</text>
+<text x="236.9" y="603.3" font-size="15.5" font-weight="600" fill="#e6edf3">attention-mechanisms-showcase</text>
+<text x="236.9" y="627.4" font-size="14.3" font-weight="400" fill="#8b949e">attention variants, side by side</text>
+<text x="218.9" y="672.4" font-size="16" font-weight="600" fill="#8b949e" fill-opacity="0.92">SIGNAL</text>
+<text x="218.9" y="703.6" font-size="15.5" font-weight="400" fill="#7ee2a8">Langs</text>
+<text x="325" y="703.6" font-size="15.5" font-weight="400" fill="#e6edf3">TypeScript · Python ·</text>
+<text x="325" y="727.7" font-size="15.5" font-weight="400" fill="#e6edf3">Jupyter Notebook · CSS</text>
+<text x="218.9" y="751.7" font-size="15.5" font-weight="400" fill="#7ee2a8">Last</text>
+<text x="325" y="751.7" font-size="15.5" font-weight="400" fill="#e6edf3">competition-submission-port</text>
+<text x="325" y="775.7" font-size="15.5" font-weight="400" fill="#e6edf3">al · 3mo ago</text>
+<text x="218.9" y="799.7" font-size="15.5" font-weight="400" fill="#7ee2a8">Updated</text>
+<text x="325" y="799.7" font-size="15.5" font-weight="400" fill="#e6edf3">2026-08-21</text>
+<line x1="218.9" y1="68.2" x2="592" y2="68.2" stroke="#30363d" stroke-width="1"/>
+<line x1="218.9" y1="265.6" x2="592" y2="265.6" stroke="#30363d" stroke-width="1"/>
+<line x1="218.9" y1="438.9" x2="592" y2="438.9" stroke="#30363d" stroke-width="1"/>
+<line x1="218.9" y1="680.4" x2="592" y2="680.4" stroke="#30363d" stroke-width="1"/>
+</svg>
