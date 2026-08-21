@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {{ layout.width }} {{ layout.height }}" role="img" aria-labelledby="title desc">
+  <title id="title">{{ profile.name }} GitHub profile card</title>
+  <desc id="desc">Terminal-inspired profile summary for {{ profile.username }}.</desc>
+  <defs>
+    <linearGradient id="panel-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="{{ theme.panel_glow_start }}" />
+      <stop offset="100%" stop-color="{{ theme.panel_glow_end }}" />
+    </linearGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="{{ theme.canvas }}" />
+  <rect x="{{ layout.outer_margin }}" y="{{ layout.outer_margin }}" width="{{ layout.inner_width }}" height="{{ layout.inner_height }}" rx="26" fill="{{ theme.panel }}" stroke="{{ theme.border }}" />
+  <rect x="{{ layout.outer_margin }}" y="{{ layout.outer_margin }}" width="{{ layout.inner_width }}" height="{{ layout.inner_height }}" rx="26" fill="url(#panel-glow)" opacity="{{ theme.glow_opacity }}" />
+
+  <g transform="translate({{ layout.outer_margin + 28 }} {{ layout.outer_margin + 26 }})">
+    <circle cx="12" cy="12" r="6" fill="{{ theme.dot_red }}" />
+    <circle cx="34" cy="12" r="6" fill="{{ theme.dot_yellow }}" />
+    <circle cx="56" cy="12" r="6" fill="{{ theme.dot_green }}" />
+    <text x="88" y="17" fill="{{ theme.muted }}" font-size="15" font-family="{{ theme.font_family }}">fastfetch-profile</text>
+  </g>
+
+  <g transform="translate({{ layout.left_x }} {{ layout.content_top }})">
+    <rect width="{{ layout.left_width }}" height="{{ layout.content_height }}" rx="18" fill="{{ theme.sidebar }}" stroke="{{ theme.sidebar_border }}" />
+    {% for line in ascii_lines %}
+    <text x="30" y="{{ 48 + loop.index0 * layout.ascii_line_height }}" fill="{{ theme.accent }}" font-size="{{ layout.ascii_font_size }}" font-family="{{ theme.font_family }}" xml:space="preserve">{{ line }}</text>
+    {% endfor %}
+  </g>
+
+  <g transform="translate({{ layout.right_x }} {{ layout.content_top }})">
+    <text x="0" y="26" fill="{{ theme.foreground }}" font-size="28" font-family="{{ theme.font_family }}" font-weight="700">{{ header }}</text>
+    {% for row in info_rows %}
+    <text x="{{ row.x }}" y="{{ row.y }}" fill="{{ row.color }}" font-size="{{ row.size }}" font-family="{{ theme.font_family }}" xml:space="preserve">{{ row.text }}</text>
+    {% endfor %}
+  </g>
+</svg>
