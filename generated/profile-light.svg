@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub profile terminal card</title>
+  <desc id="desc">A terminal-style summary card rendered as SVG for a GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="panel-glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" rx="28" fill="#f3f5f7"/>
+  <rect x="24" y="24" width="1152" height="852" rx="24" fill="#ffffff" stroke="#d8dee5"/>
+  <rect x="24" y="24" width="1152" height="58" rx="24" fill="url(#panel-glow)"/>
+  <path d="M48 82h1104" stroke="#d8dee5"/>
+
+  <circle cx="58" cy="53" r="6" fill="#e46a75"/>
+  <circle cx="80" cy="53" r="6" fill="#c59235"/>
+  <circle cx="102" cy="53" r="6" fill="#4c9a5f"/>
+  <text x="126" y="58" fill="#66758a" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">profile.svg</text>
+
+  <rect x="54" y="112" width="292" height="734" rx="18" fill="#f8fafc" stroke="#d8dee5"/>
+  <path d="M380 112v734" stroke="#d8dee5"/>
+
+  <text x="84" y="156" fill="#335f9f" font-size="17" xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    <tspan x="84" y="156">      ___      __</tspan>
+    <tspan x="84" y="180">     / _ )___ / /_</tspan>
+    <tspan x="84" y="204">    / _  / -_) __/</tspan>
+    <tspan x="84" y="228">   /____/\__/\__/</tspan>
+  </text>
+
+  <text x="414" y="150" fill="#1f2937" font-size="18" xml:space="preserve" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    <tspan x="414" y="150">lairifangtang-hue@github</tspan>
+    <tspan x="414" y="174">────────────────────────</tspan>
+    <tspan x="414" y="198"></tspan>
+    <tspan x="414" y="222">Profile</tspan>
+    <tspan x="414" y="246">────────────────────────</tspan>
+    <tspan x="414" y="270">Name:           Your Name</tspan>
+    <tspan x="414" y="294">Role:           Software / AI Engineer</tspan>
+    <tspan x="414" y="318">Location:       Singapore</tspan>
+    <tspan x="414" y="342">Focus:          AI Agents · Machine Learning ·</tspan>
+    <tspan x="414" y="366">                Graph Learning</tspan>
+    <tspan x="414" y="390">Stack:          Python · TypeScript · PyTorch ·</tspan>
+    <tspan x="414" y="414">                Next.js</tspan>
+    <tspan x="414" y="438">Interests:      World Models · Agents · Robotics</tspan>
+    <tspan x="414" y="462"></tspan>
+    <tspan x="414" y="486">GitHub</tspan>
+    <tspan x="414" y="510">────────────────────────</tspan>
+    <tspan x="414" y="534">Repositories:   unavailable</tspan>
+    <tspan x="414" y="558">Followers:      unavailable</tspan>
+    <tspan x="414" y="582">Stars:          unavailable</tspan>
+    <tspan x="414" y="606">Contribs:       unavailable</tspan>
+    <tspan x="414" y="630">Commits (yr):   unavailable</tspan>
+    <tspan x="414" y="654">PRs (yr):       unavailable</tspan>
+    <tspan x="414" y="678">Issues (yr):    unavailable</tspan>
+    <tspan x="414" y="702"></tspan>
+    <tspan x="414" y="726">Activity</tspan>
+    <tspan x="414" y="750">────────────────────────</tspan>
+    <tspan x="414" y="774">Last Updated:   2026-08-21 15:56 UTC</tspan>
+    <tspan x="414" y="798">Data Source:    No GITHUB_TOKEN available.</tspan>
+  </text>
+</svg>
